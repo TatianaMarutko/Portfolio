@@ -10,11 +10,11 @@
    - бизнес-правила;
    - глоссарий.
   
-Результат работы: [Спецификация требований Требования, ВИ .docx](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%2C%20%D0%92%D0%98%20.docx)
+**Результат работы:** [Спецификация требований Требования, ВИ .docx](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%2C%20%D0%92%D0%98%20.docx)
 
 
-4. Составьте логическую модель в программе Diagrams. Используйте нотацию Crow’s Foot.
-5. Приведите полученную модель к третьей нормальной форме (3НФ).
-6. Создайте словарь данных. Опишите необходимые, на ваш взгляд, атрибуты.
-
-Результат работы: [Спецификация требований ER, Словарь.docx](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20ER%2C%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.docx)
+4. Составить логическую модель в программе Diagrams. Используйте нотацию Crow’s Foot.
+5. Привести полученную модель к третьей нормальной форме (3НФ).
+6. Создать словарь данных.
+   
+**Результат работы:** [Спецификация требований ER, Словарь.docx](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%CC%86%20ER%2C%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C.docx)
