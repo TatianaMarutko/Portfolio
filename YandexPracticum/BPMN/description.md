@@ -13,4 +13,4 @@
 3. Составьте as-is диаграмму состояний в нотации UML State Machine на основе интервью с пользователями процесса.
 4. На основе модели AS-IS в нотации BPMN составьте диаграмму TO-BE в нотации BPMN для автоматизации процесса записи на приём к врачу в приложении, чтобы пациент, зайдя в приложение медицинской клиники «Вита», мог самостоятельно записаться на приём.
 
-Результаты работы: [BPMN.drawio](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/BPMN/BPMN.drawio)
+**Результаты работы:** [BPMN.drawio](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/BPMN/BPMN.drawio)
