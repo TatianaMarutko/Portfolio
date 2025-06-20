@@ -20,3 +20,10 @@
 
 
 [Ссылка на курс](https://practicum.yandex.ru/systems-analyst/)
+
+
+## [Дополнительные работы](https://github.com/TatianaMarutko/Portfolio/tree/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)
+
+В целях закрепления практических навыков были сделаны следующие работы:
+- [BPMN](https://github.com/TatianaMarutko/Portfolio/tree/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/BPMN)
+- [ER-диаграмма](https://github.com/TatianaMarutko/Portfolio/tree/main/%D0%94%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B/ER-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0)
