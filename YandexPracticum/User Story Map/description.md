@@ -22,6 +22,8 @@ ___
    
 *Результаты исследования:* сейчас 80% всех анализов связаны со сдачей крови, поэтому начать было бы правильнее именно с этой части.
 
+Необходимо также заполнить карточки User story из MVP.
+
 Описание персоны и **Результаты работы:** [User story.pdf](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/User%20Story%20Map/User%20story.pdf)
 
 Карточки User story представлены в файле:
