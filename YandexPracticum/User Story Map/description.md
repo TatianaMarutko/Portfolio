@@ -26,4 +26,4 @@ ___
 
 Описание персоны и **Результаты работы:** [User story.pdf](https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/User%20Story%20Map/User%20story.pdf)
 
-Карточки User story представлены в файле:
+Карточки User story представлены в файле: [Карточки User story] (https://github.com/TatianaMarutko/Portfolio/blob/main/YandexPracticum/User%20Story%20Map/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8%20User%20story.pdf)
